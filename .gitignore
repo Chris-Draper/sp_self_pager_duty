@@ -1,0 +1,10 @@
+# python files
+__pycache__
+app_creds.py
+
+# credentials and logs
+credentials.json
+log.txt
+
+# gmail access token
+token.pickle
